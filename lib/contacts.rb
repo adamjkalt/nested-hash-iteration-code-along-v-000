@@ -23,3 +23,4 @@ details.each do |attribute, data|
 end
 end
 end
+end
